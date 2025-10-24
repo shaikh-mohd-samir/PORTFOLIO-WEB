@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #f2f2f2;
+  color: #141414f6;
+}
+
+header {
+  background-color: #222;
+  padding: 15px 0;
+  color: white;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.logo span {
+  color: #bb00ff;
+}
+
+nav ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+}
+
+.hero {
+  background-color: #333333;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 10%;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.hero-text {
+  max-width: 500px;
+}
+
+.hero-text h2 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.hero-text p {
+  margin-bottom: 20px;
+}
+
+.hero-image img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+.btn {
+  background-color: #424084;
+  color: white;
+  padding: 10px 10px;
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.about {
+  display: flex;
+  padding: 50px 10%;
+  background-color: white;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.about-image img {
+  width: 250px;
+  border-radius: 10px;
+}
+
+.about-text {
+  max-width: 600px;
+}
+
+.about-text h3 {
+  font-size: 24px;
+  color: #111;
+  margin-bottom: 10px;
+}
