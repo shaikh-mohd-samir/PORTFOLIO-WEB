@@ -3,27 +3,27 @@ A responsive personal portfolio website with sections for About, Skills, Project
 This is a responsive portfolio website built to highlight my work and achievements.
 It contains all the key sections a modern portfolio needs:
 
-🏠 Home – Introduction and overview
+Home – Introduction and overview
 
-👤 About Me – Brief bio and background
+About Me – Brief bio and background
 
-🧰 Services – What I offer professionally
+Services – What I offer professionally
 
-💡 Skills – Technical and professional skills
+Skills – Technical and professional skills
 
-💬 Testimonials – Feedback from clients or mentors
+Testimonials – Feedback from clients or mentors
 
-🕓 Experience – My work history and journey
+Experience – My work history and journey
 
-🧱 Works / Projects – Showcasing completed projects
+Works / Projects – Showcasing completed projects
 
-📰 Blog – Articles and updates
+Blog – Articles and updates
 
-📞 Contact – Get in touch with me
+Contact – Get in touch with me
 
-📄 Download Resume – Easy access to my CV
+Download Resume – Easy access to my CV
 
-🛠 Tech Stack
+Tech Stack
 
 HTML
 
